@@ -31,7 +31,7 @@ Durante a execução dos testes foram analisadas as seguintes funcionalidades da
 4. Registrar os resultados observados e evidências encontradas.
 
 ### Testes automatizados
-A estrutura para automação foi preparada na pasta `automacao`.
+A estrutura para automação foi preparada na pasta `automacao`, mas não houve tempo hábil para concluir esta exigência.
 
 Caso os testes automatizados fossem implementados, a abordagem sugerida seria utilizar ferramentas como:
 
