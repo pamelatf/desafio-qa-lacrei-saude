@@ -1,7 +1,5 @@
 # Sugestões de Melhoria
 
----
-
 # Funcionalidade: Onboarding / Cadastro
 
 ## Melhoria: Preservar informações previamente selecionadas ao editar cadastro
@@ -18,8 +16,6 @@ Isso evita retrabalho e melhora a experiência da pessoa usuária ao revisar ou 
 
 Persistir o estado das seleções feitas durante o cadastro, mantendo os dados carregados quando a pessoa usuária retorna para edição.
 
----
-
 # Funcionalidade: Login / Autenticação
 
 ## Melhoria: Exibir mensagens de feedback mais claras durante o login
@@ -35,8 +31,6 @@ Feedback claro reduz tentativas repetidas de login e melhora a compreensão da p
 **Sugestão de implementação**
 
 Exibir mensagem informando que a conta ainda não foi ativada e orientar a pessoa usuária a verificar o e-mail de ativação.
-
----
 
 # Funcionalidade: Recuperação de senha
 
@@ -56,8 +50,6 @@ Exibir uma tela ou mensagem de confirmação com texto semelhante a:
 
 "Enviamos instruções para redefinição de senha para o e-mail informado."
 
----
-
 # Funcionalidade: Busca de profissionais
 
 ## Melhoria: Tornar comportamento da busca mais intuitivo
@@ -73,8 +65,6 @@ Esse comportamento é esperado pela maioria das pessoas usuárias em campos de b
 **Sugestão de implementação**
 
 Adicionar tratamento de evento para executar a busca ao pressionar a tecla **Enter**.
-
----
 
 ## Melhoria: Exibir mensagem clara quando não houver resultados
 
@@ -92,8 +82,6 @@ Exibir mensagem como:
 
 "Nenhum profissional encontrado para o termo pesquisado."
 
----
-
 ## Melhoria: Disponibilizar mecanismo claro para retornar à lista de resultados
 
 **Descrição da melhoria**
@@ -107,8 +95,6 @@ Facilita a navegação entre diferentes profissionais e melhora a experiência d
 **Sugestão de implementação**
 
 Adicionar botão **“Voltar para resultados”** na página de perfil do profissional.
-
----
 
 # Funcionalidade: Contato com profissional
 
@@ -128,8 +114,6 @@ Exibir opções como:
 
 - **Tentar novamente**
 - **Reenviar código**
-
----
 
 ## Melhoria: Informar claramente o status do envio do código SMS
 
